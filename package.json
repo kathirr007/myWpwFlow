@@ -1,0 +1,12 @@
+{
+  "name": "myWpwFlow",
+  "version": "0.0.1",
+  "description": "My first web project workflow using gulp.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Kathirr007",
+  "license": ""
+}
