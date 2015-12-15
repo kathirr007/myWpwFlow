@@ -2,11 +2,14 @@
   "name": "myWpwFlow",
   "version": "0.0.1",
   "description": "My first web project workflow using gulp.js",
-  
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/kathirr007/myWpwFlow.git"
   },
   "author": "Kathirr007",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7"
+  }
 }
